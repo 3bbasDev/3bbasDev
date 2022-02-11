@@ -51,4 +51,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bbasDev&theme=synthwave" />
 </a>
 
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3bbasDev&repo=3bbasDev)]
+
+
 

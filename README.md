@@ -51,4 +51,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bbasDev&theme=synthwave" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3bbasDev&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-repo.vercel.app/api?username=3bbasDev&theme=dark&show_icons=true)

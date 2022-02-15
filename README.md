@@ -6,10 +6,14 @@
 <p align='center'>
 
 ![](https://badge.tcblabs.net/api/hc/[3bbasDev]/[3bbasDev])
-<h1>H1</h1>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=3bbasDev.3bbasDev)
 
 </p>
+<br>
+<p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=3bbasDev.3bbasDev)
+
+</p>  
 <div size='20px'> Hi! My name is Abbas K. Radam. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 

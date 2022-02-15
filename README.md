@@ -1,8 +1,11 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
+</p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
+ ![](https://badge.tcblabs.net/api/hc/[3bbasDev]/[3bbasDev])
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=3bbasDev.3bbasDev)
 
 </p>

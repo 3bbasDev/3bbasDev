@@ -3,10 +3,13 @@
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+  <p align="center">
+  <a href="#">
+    <img src="https://badge.tcblabs.net/api/hc/rahul/badge"/>
+  </a>
+</p>
 <p align='center'>
-
 ![](https://badge.tcblabs.net/api/hc/[3bbasDev]/[3bbasDev])
-
 </p>
 <br>
 <p align='center'>

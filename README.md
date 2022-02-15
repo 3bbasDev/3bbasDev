@@ -9,7 +9,7 @@
   </a>
 </p>
 <p align='center'>
-![](https://badge.tcblabs.net/api/hc/[3bbasDev]/[3bbasDev])
+![](https://badge.tcblabs.net/api/hc/3bbasDev/3bbasDev)
 </p>
 <br>
 <p align='center'>

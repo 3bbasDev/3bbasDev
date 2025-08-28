@@ -6,7 +6,7 @@
 <!-- Typing intro -->
 <p align="center">
   <a href="https://github.com/3bbasDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&width=600&center=true&vCenter=true&lines=Executive+Architect+%7C+PM+%2B+.NET+8+Backend+Developer;Clean+Architecture+%7C+CQRS+%7C+EF+Core+%2B+PostgreSQL;Building+GovTech+%26+Enterprise+Systems;Auditability+%E2%80%A2+Idempotency+%E2%80%A2+Resilience" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&width=600&center=true&vCenter=true&lines=Executive+Architect+%7C+PM+%2B+.NET++Backend+Developer;Clean+Architecture+%7C+CQRS+%7C+EF+Core+%2B+PostgreSQL;Building+GovTech+%26+Enterprise+Systems;Auditability+%E2%80%A2+Idempotency+%E2%80%A2+Resilience" alt="typing" />
   </a>
 </p>
 
@@ -18,10 +18,6 @@
   &nbsp;
   <a href="https://github.com/3bbasDev">
     <img src="https://img.shields.io/badge/Timezone-Asia%2FBaghdad-0ea5e9?style=flat&logo=clockify&logoColor=white" alt="timezone" />
-  </a>
-  &nbsp;
-  <a href="https://badge.tcblabs.net/api/hc/3bbasDev/3bbasDev">
-    <img src="https://badge.tcblabs.net/api/hc/3bbasDev/3bbasDev" alt="health-check" />
   </a>
 </p>
 

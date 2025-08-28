@@ -123,30 +123,23 @@ I’m Abbas K. Radam — a product-minded Program/Project Manager who turns stra
 ---
 
 ## 📊 GitHub Overview
-<p align="center">
-  <a href="https://github.com/3bbasDev">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=3bbasDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="stats"/>
-  </a>
-  <a href="https://github.com/3bbasDev">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bbasDev&layout=compact&theme=radical&hide=html,css" alt="langs"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/3bbasDev">
-    <img height="190" src="https://streak-stats.demolab.com?user=3bbasDev&theme=radical&date_format=j%20M%5B%20Y%5D" alt="streak"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=3bbasDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Stats"/>
+  </a>
+  <a href="https://github.com/3bbasDev">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bbasDev&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="Top Langs"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/3bbasDev">
-    <img src="https://github-profile-trophy.vercel.app/?username=3bbasDev&theme=algolia&no-bg=true&no-frame=true&row=1&margin-w=15" alt="trophies"/>
+    <img height="190" src="https://streak-stats.demolab.com?user=3bbasDev&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Streak"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/3bbasDev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=3bbasDev&theme=rogue&hide_border=true" alt="activity-graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=3bbasDev&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
   </a>
 </p>
 
